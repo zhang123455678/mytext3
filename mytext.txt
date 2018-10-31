@@ -1,3 +1,4 @@
 public class MyText{
 	private Integer id;
+	private String name;
 }
