@@ -1,0 +1,3 @@
+public class MyText{
+	private Integer id;
+}
